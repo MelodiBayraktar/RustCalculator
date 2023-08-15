@@ -1,6 +1,6 @@
 # RustCalculator
 
-## 🔥TASK: Create a simple calculator using enums and pattern matching
+ 🔥TASK: Create a simple calculator using enums and pattern matching
 Task Details
 In this task, students will create a simple calculator in Rust that can perform basic arithmetic operations using enums and pattern matching.
 
